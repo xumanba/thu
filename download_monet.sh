@@ -1,4 +1,4 @@
 FILE=$1
 echo "Specified [$FILE]"
-URL=https://cloud.tsinghua.edu.cn/seafhttp/files/db134882-39a2-4fa2-a7cd-c9a9f3ad3680/gen_monet20_identity.pth
+URL=https://cloud.tsinghua.edu.cn/seafhttp/files/f2515373-e067-4cb1-a065-581f78419e4a/gen_monet_epoch_8.pth
 wget $URL
